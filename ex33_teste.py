@@ -1,0 +1,1 @@
+n=int("qual o valor extato")
